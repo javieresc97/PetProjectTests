@@ -9,6 +9,14 @@ Integrantes:
 - Klovert Gonzales
 - Diana Vargas
 
+### Tecnologías utilizadas
+- Rest API: ASP.net Web API
+- Web: Razor Markup, CSS3, ASP.net MVC 5
+- Móvil: Xamarin.Forms
+- Lenguaje de programación: C#
+- Servicio desplegado a través de Microsoft Azure
+- Administración de proyecto: Visual Studio Team Services
+
 ### Pet Project en acción
 Versión Web (Veterinarios): http://petprojectwebapp.azurewebsites.net
 
